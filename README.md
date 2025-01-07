@@ -7,7 +7,7 @@ This project demonstrates how to connect to the Binance API, retrieve real-time 
 
 Bitcoin is a decentralised digital currency that was introduced in 2009 by an anonymous person or group using the pseudonym Satoshi Nakamoto. It operates on a peer-to-peer network and utilizes blockchain technology to enable secure, transparent, and immutable transactions without the need for intermediaries like banks.
 
-## Technical Overview
+# Technical Overview
 
 ## Bitcoin Blockchain Architecture
 
