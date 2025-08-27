@@ -287,7 +287,7 @@ Before running this project, ensure you have the following installed:
 1. Clone the repository:
 
 ```
-git clone https://github.com/gappeah/Binance-Crypto-Prediction-and-Analysis.git
+git clone https://github.com/garcane/Binance-Crypto-Prediction-and-Analysis.git
 ```
 
 2. Navigate to the project directory:
